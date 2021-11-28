@@ -98,10 +98,6 @@
   display: block;
 }
 
-.header .nav .dropdown-content a:hover {
-  color: #fff;
-}
-
 .header .nav .dropdown:hover .dropdown-content {
   display: block;
 }
